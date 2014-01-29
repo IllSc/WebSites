@@ -1,0 +1,128 @@
+/* Common Part
+ *******************************************/
+
+/* header
+ *******************************************/
+ .user-nav{
+ 	background: #4A0000;
+ 	color:white;
+	text-align: right;
+	font-size: 12px;
+ }
+ .user-nav ul {
+ 	margin: 0;
+ 	padding: 3px;
+ }
+.user-nav li {
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.user-nav a {
+	color: inherit;
+}
+.user-head {
+	background: url('../img/bg-pattern.png');
+	padding: 10px 0;
+}
+.main-nav{
+	text-align: right;
+}
+.main-nav ul {
+	margin: 0 -100px;
+}
+.main-nav a{
+	display: block;
+	padding : 30px;
+	background: white;
+}
+.main-nav a:hover{
+	border-color: #C8226C;
+	text-decoration: none;
+}
+.user-head img {
+	text-align: left;
+}
+.main-nav li {
+	display: inline-block;
+	margin-left: -3px;
+	font-size: 12px;
+	
+}
+.main-uctnav li:last-child a{
+	border-radius : 0 10px 10px 0;
+}
+.main-nav li:first-child a{
+	border-radius : 10px 0 0 10px;
+}
+
+/* Content
+ *******************************************/
+.product-title{
+	border-bottom:solid 1px black;
+}
+.harga{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(255,255,255,.7);
+}
+.container .span3 {
+	position: relative;
+}
+
+.textHead{
+	border-bottom:solid 5px gray;
+	text-align: center;
+}
+.message{
+	padding: 2em 0;
+}
+.author {
+	text-align: right;
+	font-weight: bolder;
+}
+.about .span12 {
+	padding: 2em 0;
+}
+.tableInfo td {
+	text-align: right !important;
+}
+.status {
+	color: blue;
+}
+.detail {
+	text-align: center;
+}
+
+#map{
+	width: 100%;
+	height: 300px;
+}
+.black{
+	color: black
+}
+.hoverGambar:hover img{
+	border-style:solid;
+border-width:5px;
+transition: background 2s ease 0;
+
+}
+/* Footer
+ *******************************************/
+.foty {
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+.foty li {
+	display: inline-block;
+	margin-right: 10px
+
+}
+.foty a{
+	color: white;
+}
