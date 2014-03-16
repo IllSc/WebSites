@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'ap-cdbr-azure-east-b.cloudapp.net';
-$db['default']['username'] = 'bc645ee5a8f3a1';
-$db['default']['password'] = '5a4d16aa';
-$db['default']['database'] = 'cdb_e03f6a03e5';
+$db['default']['username'] = 'bca781f4ee97b4';
+$db['default']['password'] = '90d73ec5';
+$db['default']['database'] = 'cdb_b0213d9259';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
