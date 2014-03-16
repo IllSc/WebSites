@@ -44,24 +44,8 @@
 										</li>
 											
 						</ul>
-						<form class="navbar-search pull-left">
-								        <div class='input-prepend'>
-								            <span class='add-on'>Search</span>
-								            <input/ style="float: right">
-								        </div>
-	           			</form>
-						<ul class="nav pull-right">
-							<li>
-								<a href="#SignUp" data-toggle="modal">Daftar</a>
-								
-							</li>
-							<li>
-								<a href="#">Masuk</a>
-							</li>
-							<li class="divider-vertical">
-							</li>
-							
-						</ul>
+						
+						
 					</div>			
 				</div>
 			</div>				
